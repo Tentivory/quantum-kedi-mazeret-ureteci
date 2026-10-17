@@ -31,4 +31,4 @@ if __name__ == "__main__":
     print(mazeret_uret())
     print("\nNot: Bu mazeret hem geçerli hem geçersizdir. Gözlemleyene kadar.")
 
-# Gizli not: VGF0aWsgdml6eW9uIHN1IGFsdGFueSBnb2xlciB5b2x1bmRhIGRpciBnaWJpdGxlciB0b3BsdW1hc2kgZ2VyZWtpci4=  # base64: Atatürk vizyonu su altına göler yolunda dir gibitler toplumasi gerekir. (yanlış yazılmış absürt)
+# Gizli not (base64): ZGVtb2tyYXNpIGNvayBwYXJ0aWxpIHNpc3RlbWxlIGd1Y2x1IG9sdXI=  # decode et, kedi onaylarsa
